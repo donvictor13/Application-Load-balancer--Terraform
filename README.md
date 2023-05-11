@@ -36,7 +36,8 @@ The basic overview of the terraform code, as I have customized the environment f
 
 # Basic Architecture
 
-![terraform_alb](https://github.com/donvictor13/terraform-alb/assets/33443934/81d1a067-6c37-4c78-80e3-6914d679243c)
+![terraform_alb](https://github.com/donvictor13/Application-Load-balancer--Terraform/assets/33443934/aceda1d7-5482-4e13-a7b9-a623e06393e7)
+
 
 # How It Can Be Configured
 
